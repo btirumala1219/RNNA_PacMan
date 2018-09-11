@@ -2,15 +2,7 @@ import java.awt.Point;
 import java.util.*;
 import pacsim.*;
 
-/*
-CAP 4630 - AI
-Program 1 - PacSimRNNA
 
-Alexandra Aguirre
-Nicolas Lopez
-
-9-5-17
-*/
 class Node implements Comparable<Node>
 {
     public int size;
